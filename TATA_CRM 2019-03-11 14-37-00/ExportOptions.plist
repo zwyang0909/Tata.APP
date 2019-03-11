@@ -6,6 +6,15 @@
 	<true/>
 	<key>destination</key>
 	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://github.com/zwyang0909/Tata.APP/raw/master/TATA_CRM%202019-03-11%2014-37-00/TATA_CRM.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://github.com/zwyang0909/Tata.APP/raw/master/TATA_CRM%202019-03-11%2014-37-00/QQ%E5%9B%BE%E7%89%8720190311145421.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://github.com/zwyang0909/Tata.APP/raw/master/TATA_CRM%202019-03-11%2014-37-00/512LOGO.png</string>
+	</dict>
 	<key>method</key>
 	<string>enterprise</string>
 	<key>provisioningProfiles</key>
